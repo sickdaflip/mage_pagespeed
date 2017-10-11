@@ -1,5 +1,5 @@
 {
-	"name": "mediarox/pagespeed",
+	"name": "sickdaflip/mage_pagespeed",
 	"type": "magento-module",
 	"require": {
 		"magento-hackathon/magento-composer-installer": "*"
